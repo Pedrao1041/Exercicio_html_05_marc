@@ -3,5 +3,5 @@
 ## _prof.Alexandre_
 
 # INFO
-- github -
-- nome - 
+- github - Pedrao1041
+- nome - Pedro Lombardi
